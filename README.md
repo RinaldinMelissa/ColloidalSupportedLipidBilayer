@@ -1,2 +1,2 @@
-# ColloidalSupportedLipidBilayer
-Scripts for Data Analysis and creating the figures for the paper "Colloidal supported lipid bilayers for self-assembly"
+# SLVsAreaFraction
+Data Analysis of the area fraction of SLVs of four shapes: spherical, cubic, dumbbell and snowman.
